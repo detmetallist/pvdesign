@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="180.495mm" height="5.6827mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1960 62"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil2 {fill:url(#id0)}
+    .fil3 {fill:url(#id1)}
+    .fil1 {fill:url(#id2)}
+    .fil0 {fill:url(#id3)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="1945.38" y1="-827.899" x2="1945.38" y2="2008.47">
+   <stop offset="0" style="stop-opacity:1; stop-color:#CA52EC"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#2D8E60"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="1945.38" y1="-827.899" x2="1945.38" y2="2008.47">
+   <stop offset="0" style="stop-opacity:1; stop-color:#D066EE"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#459A72"/>
+  </linearGradient>
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="1945.38" y1="-827.899" x2="1945.38" y2="2008.47">
+   <stop offset="0" style="stop-opacity:1; stop-color:#C14EDD"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#348460"/>
+  </linearGradient>
+  <linearGradient id="id3" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="1945.12" y1="-827.899" x2="1945.12" y2="2008.47">
+  </linearGradient>
+ </defs>
+ <g id="Слой_x0020_4">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0" d="M1800 41l0 0 -1192 -8 0 -7 1192 -7c0,0 0,0 0,0 6,0 11,5 11,11 0,6 -5,11 -11,11zm-1205 -8l-12 0 0 -7 12 0 0 7zm-26 0l-569 -3 569 -4 0 7 0 0z"/>
+  <path class="fil1" d="M608 33l-13 0 0 -7 13 0 0 7zm-25 0l-14 0 0 -7 14 0 0 7z"/>
+  <path class="fil2" d="M1832 62l8 -32 -8 -30 128 27 -128 35zm12 -53l20 22 67 -1 -87 -21 0 0z"/>
+  <polygon class="fil3" points="1864,31 1844,9 1931,30 "/>
+ </g>
+</svg>

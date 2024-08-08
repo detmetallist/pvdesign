@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="37.8486mm" height="13.4291mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 79 28"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:#2B1A15;fill-rule:nonzero}
+    .fil9 {fill:#4B4646;fill-rule:nonzero}
+    .fil7 {fill:#4F6767;fill-rule:nonzero}
+    .fil11 {fill:#606365;fill-rule:nonzero}
+    .fil10 {fill:#648487;fill-rule:nonzero}
+    .fil3 {fill:#85815D;fill-rule:nonzero}
+    .fil6 {fill:#B38F49;fill-rule:nonzero}
+    .fil5 {fill:#BD8F31;fill-rule:nonzero}
+    .fil8 {fill:#D4B360;fill-rule:nonzero}
+    .fil4 {fill:#EEC25F;fill-rule:nonzero}
+    .fil2 {fill:#FCC13D;fill-rule:nonzero}
+    .fil0 {fill:white;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_6">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_810123856">
+   <polygon class="fil0" points="69,10 72,10 72,3 69,3 "/>
+   <polygon class="fil0" points="76,10 79,10 79,3 76,3 "/>
+   <path class="fil1" d="M21 21c0,4 -3,7 -7,7 -4,0 -7,-3 -7,-7 0,-3 3,-6 7,-6 4,0 7,3 7,6z"/>
+   <path class="fil1" d="M63 21c0,4 -3,7 -7,7 -3,0 -6,-3 -6,-7 0,-3 3,-6 6,-6 4,0 7,3 7,6z"/>
+   <path class="fil2" d="M70 8c0,0 0,0 0,0 0,1 0,1 0,1 0,0 0,0 0,0 0,1 0,1 -1,1 -1,1 -2,2 -3,2l0 0 0 0c0,0 1,1 1,1l0 0 0 0 0 0c0,1 1,2 1,3l0 0 0 0 0 0 0 0c0,1 0,1 0,2l0 0c0,0 0,1 0,1 0,1 0,1 -1,2l0 0 0 0c0,0 0,0 -1,0 -1,2 -60,1 -61,1 -10,-2 -4,-8 14,-12 22,-15 44,-10 50,-4 0,0 1,0 1,1 0,0 0,0 0,0 0,0 0,0 0,1 0,0 0,0 0,0l0 0 0 0z"/>
+   <path class="fil1" d="M68 18l0 0c0,0 0,1 0,1 0,0 0,0 -1,-1 0,0 -3,-6 -2,-7 0,0 1,1 1,1l1 1 0 0 0 0 0 0c0,1 1,2 1,3l0 0 0 0 0 0 0 0c0,1 0,1 0,2l0 0 0 0z"/>
+   <path class="fil3" d="M68 18c-1,-2 -2,-5 -2,-6 0,1 0,1 1,1l0 0 0 0 0 0c0,1 1,2 1,3l0 0 0 0 0 0 0 0c0,1 0,1 0,2l0 0 0 0z"/>
+   <path class="fil1" d="M46 1c-2,0 -7,1 -13,3 -5,2 -9,5 -11,6l0 1c13,0 18,0 22,0l2 -10 0 0 0 0z"/>
+   <path class="fil4" d="M44 14l0 0c-1,1 -1,3 -2,3l0 0 0 1 0 0c-1,0 -1,0 -1,0l0 0 0 0c-3,1 -7,2 -11,3l0 0c0,0 0,0 0,0l0 0 0 0 -1 0c-1,0 -2,0 -3,-1 0,0 -1,0 -1,0l0 0 0 0 0 0c0,0 0,0 0,-1l0 0c-1,-1 -2,-2 -2,-3 -1,-1 -1,-2 -1,-3 0,0 0,-1 0,-1 0,0 16,-1 21,0l1 0c0,0 0,0 0,0 0,0 0,1 0,2l0 0 0 0z"/>
+   <path class="fil5" d="M28 21c0,0 -1,0 -2,-1l0 0c1,1 2,1 3,1 0,0 0,0 0,0l1 0 0 0 0 0 0 0 -1 0c0,0 0,0 -1,0zm-3 -1l0 0 0 0 0 0 0 0c0,0 0,-1 0,-1l0 0 0 0 0 0c0,1 0,1 0,1l0 0 0 0 0 0zm17 -2l0 0 0 0 0 -1 0 0c1,0 1,-2 2,-3l0 0 0 0 0 0c-1,1 -1,3 -2,3l0 0 0 1 0 0 0 0z"/>
+   <path class="fil6" d="M29 21c-1,0 -2,0 -3,-1l0 0c0,0 -1,0 -1,0l0 0 0 0 0 0c0,0 0,0 0,-1l0 0c0,0 0,0 1,0 5,0 13,-2 15,-3 1,-1 2,-3 2,-4l0 0 1 0c0,0 0,1 0,2l0 0 0 0c-1,1 -1,3 -2,3l0 0 0 1 0 0 0 0c0,0 -1,0 -1,0l0 0c-3,1 -7,2 -11,3l0 0 0 0c0,0 0,0 0,0l0 0 0 0 -1 0c0,0 0,0 0,0l0 0z"/>
+   <path class="fil1" d="M42 13c0,0 -2,1 -3,1 -2,0 -3,-1 -3,-1 0,0 1,0 3,0 1,0 3,0 3,0z"/>
+   <path class="fil1" d="M10 16c-1,0 -2,1 -3,1 0,0 0,0 -1,1l0 0 0 0 0 0 0 0c-1,0 -1,0 -1,0l-1 1 0 0 0 0c0,0 0,0 -1,0 -1,0 -1,0 -1,0 0,-2 1,-3 3,-3 1,0 3,-1 5,0z"/>
+   <path class="fil7" d="M4 19c0,-1 0,-1 0,-1 0,-1 0,-1 0,-1l0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0c0,0 0,0 0,1 0,0 0,0 0,1l0 0 0 0 0 0z"/>
+   <path class="fil8" d="M4 19l0 0 0 0 1 -1c0,0 0,0 1,0l0 0 0 0c-1,0 -1,0 -1,0l-1 1 0 0 0 0z"/>
+   <path class="fil9" d="M4 19c0,-1 0,-1 0,-1 0,-1 0,-1 0,-1l0 0 0 -1 0 0 0 0 0 0 0 0c1,1 1,1 2,1 0,0 0,0 0,0 0,0 0,1 0,1 -1,0 -1,0 -1,0l-1 1 0 0 0 0z"/>
+   <path class="fil7" d="M6 18c0,0 0,0 0,0l0 0 0 0 0 0zm0 -1c0,0 0,0 0,0 0,0 0,-1 0,-1l0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0c0,0 0,1 0,1 0,0 0,0 0,0l0 0z"/>
+   <path class="fil10" d="M6 18c0,0 0,-1 0,-1 0,0 0,0 0,0 0,0 0,0 0,0 0,1 0,1 0,1 0,0 0,0 0,0l0 0 0 0 0 0z"/>
+   <path class="fil9" d="M6 18l0 0c0,0 0,0 0,0l0 0zm0 0c0,0 0,0 0,-1 0,0 0,0 0,0 0,0 0,-1 0,-1l0 0 0 0 0 0 0 0 0 0 0 0c0,0 1,1 1,1 0,0 0,0 -1,1l0 0 0 0 0 0z"/>
+   <path class="fil11" d="M6 18c0,0 0,0 0,-1 0,1 0,1 0,1l0 0c0,0 0,0 0,0z"/>
+   <path class="fil1" d="M47 1c-1,4 -1,4 -2,10 3,0 10,1 12,-2 3,-3 0,-7 -5,-8 -1,0 -5,0 -5,0l0 0 0 0z"/>
+   <path class="fil1" d="M70 7l-4 0c0,0 0,0 0,0 0,0 0,0 0,0l4 0c0,0 0,0 0,0z"/>
+   <path class="fil1" d="M70 8l-4 0c0,0 0,0 0,0 0,0 0,0 0,0l4 0c0,0 0,0 0,0z"/>
+   <path class="fil1" d="M70 8c0,1 0,1 0,1l-4 0c0,0 0,0 0,0 0,0 0,-1 0,-1l4 0z"/>
+   <path class="fil1" d="M70 9c0,1 0,1 -1,1l-3 0c0,0 0,0 0,0 0,0 0,-1 0,-1l4 0z"/>
+   <polygon class="fil1" points="49,15 50,15 50,14 49,14 "/>
+   <polygon class="fil1" points="50,17 52,17 52,15 50,15 "/>
+   <polygon class="fil1" points="54,17 56,17 56,15 54,15 "/>
+   <polygon class="fil1" points="52,15 54,15 54,14 52,14 "/>
+   <polygon class="fil1" points="56,15 57,15 57,14 56,14 "/>
+   <polygon class="fil1" points="57,17 59,17 59,15 57,15 "/>
+   <polygon class="fil1" points="59,15 61,15 61,14 59,14 "/>
+   <path class="fil1" d="M14 28c-2,0 -4,-1 -5,-2 3,0 6,0 10,0 -1,1 -3,2 -5,2l0 0 0 0z"/>
+   <path class="fil1" d="M56 28c-2,0 -3,-1 -5,-2 4,0 7,0 10,0 -1,1 -3,2 -5,2l0 0 0 0z"/>
+  </g>
+ </g>
+</svg>
